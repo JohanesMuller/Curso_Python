@@ -9,6 +9,9 @@
 # No Sicredi
 #pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org black
 
+# Ativar Scripts venv no terminal
+ ./venv/Scripts/activate
+
 import os
 
 #os.system('python.exe -m pip install --upgrade pip')
