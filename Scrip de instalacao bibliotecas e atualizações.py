@@ -10,7 +10,7 @@
 #pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org black
 
 # Ativar Scripts venv no terminal
- ./venv/Scripts/activate
+# ./venv/Scripts/activate
 
 import os
 
