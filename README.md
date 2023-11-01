@@ -32,15 +32,3 @@ $ pip install pysimplegui
 # Execute a aplicação
 $ python gui.py
 
-```
-
-### Autor
----
-
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55006128?s=400&u=013d028ba3d559e82b6b0eb009d48f69044435ca&v=4" width="100px;" alt=""/>
- <sub><b>Cristian Pessanha</b></sub>
- 
-Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-pessanha-1b84a0231/)](https://www.linkedin.com/in/cristian-pessanha-1b84a0231/) 
-[![Gmail Badge](https://img.shields.io/badge/-cristianpl4y@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianpl4y@gmail.com)](mailto:cristianpl4y@gmail.com)
